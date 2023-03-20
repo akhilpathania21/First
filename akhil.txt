@@ -1,1 +1,26 @@
 Akhil Pathania 
+
+To check the branching.
+And to connect it with remote
+AKHIL@LAPTOP-EISFLFFA MINGW64 ~/OneDrive/Desktop/git/First (main)
+$ git branch Akhil
+
+AKHIL@LAPTOP-EISFLFFA MINGW64 ~/OneDrive/Desktop/git/First (main)
+$ git branch
+  Akhil
+* main
+
+AKHIL@LAPTOP-EISFLFFA MINGW64 ~/OneDrive/Desktop/git/First (main)
+$ git checkout akhil
+Switched to branch 'akhil'
+
+AKHIL@LAPTOP-EISFLFFA MINGW64 ~/OneDrive/Desktop/git/First (akhil)
+$ dir
+README.md  akhil.txt  code.txt  demo.txt  pro.txt
+
+AKHIL@LAPTOP-EISFLFFA MINGW64 ~/OneDrive/Desktop/git/First (akhil)
+$ cat akhil.txt
+Akhil Pathania
+AKHIL@LAPTOP-EISFLFFA MINGW64 ~/OneDrive/Desktop/git/First (akhil)
+$ notepad akhil.txt
+
